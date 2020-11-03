@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6945" started-at="2020-09-16T21:40:57 EDT" finished-at="2020-09-16T21:41:04 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6945" started-at="2020-09-16T21:40:57 EDT" finished-at="2020-09-16T21:41:04 EDT">
+      <class name="Methods.Sel_037_TestNG_1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Methods.Sel_037_TestNG_1@3712b94]" name="setUp" is-config="true" duration-ms="6559" started-at="2020-09-16T21:40:57 EDT" finished-at="2020-09-16T21:41:03 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTitle()[pri:1, instance:Methods.Sel_037_TestNG_1@3712b94]" name="getTitle" duration-ms="8" started-at="2020-09-16T21:41:03 EDT" description="get title method" finished-at="2020-09-16T21:41:03 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="invalidCredentialsFroLogin()[pri:2, instance:Methods.Sel_037_TestNG_1@3712b94]" name="invalidCredentialsFroLogin" duration-ms="262" started-at="2020-09-16T21:41:03 EDT" description="invalid credentials for login page" finished-at="2020-09-16T21:41:03 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidCredentialsFroLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Methods.Sel_037_TestNG_1@3712b94]" name="tearDown" is-config="true" duration-ms="96" started-at="2020-09-16T21:41:03 EDT" finished-at="2020-09-16T21:41:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Methods.Sel_037_TestNG_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
